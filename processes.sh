@@ -11,7 +11,7 @@ function dzwig1 {
       mv "dir1/$material" buffer/
       echo "Dźwig 1: przeniesiono $material do bufora"
 	else
-		echo "Dzwig 1: brak plikow do przeniesienia, czekam na produkcje"
+		echo "Dźwig 1: brak plikow do przeniesienia, czekam na produkcje"
 	fi
 	else
       echo "Dźwig 1: bufor jest pełny, czekam na dźwig 2"
